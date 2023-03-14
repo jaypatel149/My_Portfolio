@@ -1,0 +1,41 @@
+.button {
+    border:1px solid #34222e;
+    color:#34222e;
+}
+.btn {
+    width: max-content;
+    display: inline-block;
+    color: white;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid #f9bf8f;
+    transition: transform;
+}
+
+.btn:hover {
+    background: white;
+    color: black;
+    font-weight: bold;
+    border-color: transparent;
+}
+
+.btn-primary {
+    background: #f9bf8f;
+    color: #fff;
+}
+
+.portfolio__item{
+    background-color: #34222e;
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: transition;
+}
+.portfolio__item:hover{
+    border-color: #e29a5e;
+    background: #f9bf8f3b;
+    font-weight: bold;
+    cursor: pointer;
+
+}
