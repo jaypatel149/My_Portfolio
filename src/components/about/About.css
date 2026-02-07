@@ -1,7 +1,8 @@
 .image-contant img {
     width: 80%;
-    height: 100%;
+    aspect-ratio: 1 / 1;   /* width = height */
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .intro {
@@ -14,16 +15,16 @@
 }
 
 .intro h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 10px 0;
 }
 
 .intro h2 {
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .intro h3 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .intro h3 span {
@@ -31,7 +32,7 @@
 }
 
 .cta {
-    margin-top: 2rem;
+    margin-top: 1rem;
     display: flex;
     gap: 2rem;
 }

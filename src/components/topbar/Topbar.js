@@ -7,10 +7,10 @@ const Topbar = () => {
     <div className='topbar'>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        <a className="navbar-brand logo" href="/">Jaypatel</a>
+        <a className="navbar-brand logo" href="/">Jayprakash patel</a>
         <div className='item-contact'>
           <PersonIcon style={{color:'white'}}/>
-          <span>+91 9082100916</span>
+          <span>+91 8853528188</span>
         </div>
         <div className='item-contact ms-5'>
           <EmailIcon style={{color:'white'}}/>

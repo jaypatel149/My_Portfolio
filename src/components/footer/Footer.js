@@ -34,7 +34,7 @@ const Footer = () => {
         <a href="https://twitter.com/" color='inherit'  className="social"> <TwitterIcon /></a>
       </div>
       <div className="footer__copyright">
-        <h4 >♥ Jay Patel</h4>
+        <h4 >♥ Jayprakash Patel</h4>
       </div>
     </footer>
   )
